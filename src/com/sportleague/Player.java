@@ -1,4 +1,4 @@
-package com.sportLeague;
+package com.sportleague;
 
 public abstract class Player {
     String name;

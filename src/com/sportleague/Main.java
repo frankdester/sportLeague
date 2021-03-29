@@ -1,4 +1,4 @@
-package com.sportLeague;
+package com.sportleague;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -86,6 +86,6 @@ public class Main {
         championsLeague.addTeams(real_madrid);
 
         championsLeague.leagueClassement();
-    
+
     }
 }

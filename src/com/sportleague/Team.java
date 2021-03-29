@@ -1,7 +1,6 @@
-package com.sportLeague;
+package com.sportleague;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class Team<T extends Player> implements Comparable<Team<T>> {//we extend T b/c its should just take Player subclasses. Player is the upper bound of T. T represent parameter of type Player
     private final String name;

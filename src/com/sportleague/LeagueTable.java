@@ -1,4 +1,4 @@
-package com.sportLeague;
+package com.sportleague;
 
 import java.util.ArrayList;
 import java.util.Collections;

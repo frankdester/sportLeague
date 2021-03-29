@@ -1,4 +1,4 @@
-package com.sportLeague;
+package com.sportleague;
 
 public class Football extends Player {
 
